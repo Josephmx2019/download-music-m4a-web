@@ -1,2 +1,2 @@
 streamlit>=1.32.0
-yt-dlp>=2026.8.19
+yt-dlp[default]>=2026.8.18.122307.dev0
